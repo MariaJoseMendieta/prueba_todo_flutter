@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835816409853",
+    "project_id": "todo-3aad7",
+    "storage_bucket": "todo-3aad7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835816409853:android:0fe3caee67a64dc8904c94",
+        "android_client_info": {
+          "package_name": "majomendieta.com.prueba_todo_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJoOToQTdjlStoy_RcjK4IKdvOKBnW7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
